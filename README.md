@@ -1,2 +1,0 @@
-# StartingOff
-My first project
